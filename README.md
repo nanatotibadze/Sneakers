@@ -18,8 +18,7 @@ Users should be able to:
 ### Screenshot
 ![(<![sneakers 1](https://github.com/nanatotibadze/Sneakers/assets/106735126/88d76dc7-7a22-4d01-bac9-b764fed7e92c)
 >)]
-![![Alt text](![cart2](https://github.com/nanatotibadze/Sneakers/assets/106735126/06a26aad-45d2-4044-88a9-97f9e2490a17)
-]
+
 
 ### Links
 
