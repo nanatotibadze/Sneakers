@@ -17,11 +17,12 @@ Users should be able to:
 
 ### Screenshot
 
-([sneakers 1](https://github.com/nanatotibadze/Sneakers/assets/106735126/5bb51645-261d-4947-9371-92c0abbccc16)
->)]
+![![Alt text]((https://github.com/nanatotibadze/Sneakers/assets/106735126/5bb51645-261d-4947-9371-92c0abbccc16)]
+
 [([cart2](https://github.com/nanatotibadze/Sneakers/assets/106735126/32d2385e-4b19-4608-9ea0-b4dd8ff3132f)
 
 )]
+
 
 ### Links
 
