@@ -1,0 +1,75 @@
+.btnImg {
+  width: 8.8rem;
+  height: 8.8rem;
+  border-radius: 1.5rem;
+
+  /* -webkit-filter: blur(5px); Safari 6.0 - 9.0 */
+
+  border-radius: 10px;
+  /* background: , url(<path-to-image>), lightgray 50% / cover no-repeat; */
+}
+
+.btnImg:hover,
+.btnImg:active,
+.btnImg:focus,
+.active {
+  filter: opacity(34%);
+}
+
+.imgButtons {
+  display: flex;
+  justify-content: space-between;
+  width: 44.5rem;
+  margin-top: 3.2rem;
+  @media only screen and (max-width: 765px) {
+    display: none;
+  }
+}
+.originImg {
+  width: 44.5rem;
+  height: 44.5rem;
+  border-radius: 1.5rem;
+  position: relative;
+
+  @media only screen and (max-width: 765px) {
+    padding: 0;
+    height: 30rem;
+    border-radius: 0;
+
+    min-width: 100vw;
+  }
+}
+
+.containerfluid {
+  min-width: 100vw;
+}
+.nextButton {
+  top: 20rem;
+  border-radius: 50%;
+  color: black;
+  font-weight: bolder;
+
+  /* right: 80vw; */
+  /* right: 80vw; */
+}
+.prevButton {
+  border-radius: 50%;
+  width: 4rem;
+
+  font-weight: bolder;
+  left: 2rem;
+}
+
+.prevNext {
+  display: none;
+
+  @media only screen and (max-width: 765px) {
+    top: 20rem;
+    position: absolute;
+    display: flex;
+    margin: 0 auto;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    gap: 32rem;
+  }
+}
