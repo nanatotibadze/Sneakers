@@ -1,10 +1,17 @@
 import classes from "./Buttons.module.css";
 import {useDispatch, useSelector} from "react-redux";
+// import {
+//   increaseQuantity,
+//   decreaseItemQuantity,
+//   clearQuantity,
+// } from "./ProductSlice";
+
 import {
   increaseQuantity,
   decreaseItemQuantity,
   clearQuantity,
-} from "./ProductSlice";
+} from "./productSlice.js";
+
 import {
   addItem,
   // inreaseItemQuantity,
