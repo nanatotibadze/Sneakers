@@ -16,13 +16,10 @@ Users should be able to:
 - View the cart and remove items from it
 
 ### Screenshot
-![![](<![sneakers 1](https://github.com/nanatotibadze/Sneakers/assets/106735126/88d76dc7-7a22-4d01-bac9-b764fed7e92c)
+![(<![sneakers 1](https://github.com/nanatotibadze/Sneakers/assets/106735126/88d76dc7-7a22-4d01-bac9-b764fed7e92c)
 >)]
-
-[([cart2](https://github.com/nanatotibadze/Sneakers/assets/106735126/32d2385e-4b19-4608-9ea0-b4dd8ff3132f)
-
-)]
-
+![![Alt text](![cart2](https://github.com/nanatotibadze/Sneakers/assets/106735126/06a26aad-45d2-4044-88a9-97f9e2490a17)
+]
 
 ### Links
 
