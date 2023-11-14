@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: ([[https://your-live-site-url.com](https://sneakers-page-ten.vercel.app/)](https://sneakers-page-ten.vercel.app/))
+- Live Site URL: ([[(https://sneakers-page-ten.vercel.app/)](https://sneakers-page-ten.vercel.app/))
 
 ## My process
 
